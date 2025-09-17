@@ -601,57 +601,57 @@ main {
 }
 
 .left-side .left-bg-01 {
-    background-image: url("./iimage/bgleft1.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft1.jpg");
     transform: scale(1.005);
     z-index: 10;
 }
 
 .left-side .left-bg-02 {
-    background-image: url("./iimage/bgleft2.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft2.jpg");
     transform: scale(1.005);
     z-index: 9;
 }
 .left-side .left-bg-03 {
-    background-image: url("./iimage/bgleft3.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft3.jpg");
     transform: scale(1.005);
     z-index: 8;
 }
 
 .left-side .left-bg-04 {
-    background-image: url("./iimage/bgleft4.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft4.jpg");
     transform: scale(1.005);
     z-index: 7;
 }
 .left-side .left-bg-05 {
-    background-image: url("./iimage/bgleft5.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft5.jpg");
     transform: scale(1.005);
     z-index: 6;
 }
 
 .left-side .left-bg-06 {
-    background-image: url("./iimage/bgleft6.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft6.jpg");
     transform: scale(1.005);
     z-index: 5;
 }
 .left-side .left-bg-07 {
-    background-image: url("./iimage/bgleft7.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft7.jpg");
     transform: scale(1.005);
     z-index: 4;
 }
 
 .left-side .left-bg-08 {
-    background-image: url("./iimage/bgleft8.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft8.jpg");
     transform: scale(1.005);
     z-index: 3;
 }
 .left-side .left-bg-09 {
-    background-image: url("./iimage/bgleft9.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft9.jpg");
     transform: scale(1.005);
     z-index: 2;
 }
 
 .left-side .left-bg-10 {
-    background-image: url("./iimage/bgleft10.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft10.jpg");
     transform: scale(1.005);
     z-index: 1;
 }
@@ -695,43 +695,43 @@ main {
 }
 
 .right-side .right-bg-01 {
-    background-image: url("./iimage/bgleft10.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft10.jpg");
     z-index: 10;
 }
 .right-side .right-bg-02 {
-    background-image: url("./iimage/bgleft9.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft9.jpg");
     z-index: 9;
 }
 .right-side .right-bg-03 {
-    background-image: url("./iimage/bgleft8.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft8.jpg");
     z-index: 8;
 }
 .right-side .right-bg-04 {
-    background-image: url("./iimage/bgleft7.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft7.jpg");
     z-index: 7;
 }
 .right-side .right-bg-05 {
-    background-image: url("./iimage/bgleft6.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft6.jpg");
     z-index: 6;
 }
 .right-side .right-bg-06 {
-    background-image: url("./iimage/bgleft5.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft5.jpg");
     z-index: 5;
 }
 .right-side .right-bg-07 {
-    background-image: url("/iimage/bgleft4.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft4.jpg");
     z-index: 4;
 }
 .right-side .right-bg-08 {
-    background-image: url("./iimage/bgleft3.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft3.jpg");
     z-index: 3;
 }
 .right-side .right-bg-09 {
-    background-image: url("./iimage/bgleft2.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft2.jpg");
     z-index: 2;
 }
 .right-side .right-bg-10 {
-    background-image: url("./iimage/bgleft1.jpg");
+    background-image: url("/Website-Practice1/iimage/bgleft1.jpg");
     z-index: 1;
 }
 .right-side .right-btm {
